@@ -1,4 +1,4 @@
-# TIMETABEL_GENERATION_
+# TIMETABEL*GENERATION*
 
 ## 🤝 Contributing
 
